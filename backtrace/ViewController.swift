@@ -19,7 +19,11 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
+    // adding a function
+    func doodle() {
+        //
+        print("once")
+    }
 
 }
 
